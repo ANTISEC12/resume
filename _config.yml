@@ -46,8 +46,7 @@ more_content: | # this will include new lines to allow paragraphs
    
     GNU/Linux (Installation, Configuration, Troubleshooting)
    - Junior: <mark>Git</mark>, <mark>Docker</mark>, <mark>Bash Script</mark>, <mark>OpenVPN</mark>, <mark>TOR +Bridges</mark>, <mark>OpenSatck</mark>, <mark>SQL/MariaDB</mark>, <mark>Zabbix</mark>, <mark>VoIP</mark>, <mark>Virtualization</mark> **(Qemu_KVM - VMWare)**.
-   - Middle: 
-	-- Cloud <mark>archlinux</mark>, <mark>Fedora</mark>, <mark>CentOS</mark>, <mark>Ubuntu</mark>, <mark>Debian</mark>.
+   - Middle:  <mark>archlinux</mark>, <mark>Fedora</mark>, <mark>CentOS</mark>, <mark>Ubuntu</mark>, <mark>Debian</mark>.
     
     Ms-Windows (Installation, Configuration, Troubleshooting)
    - Junior: <mark>DHCP</mark>, <mark>DNS</mark>, <mark>Active-Directory</mark>.
