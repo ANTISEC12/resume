@@ -44,7 +44,7 @@ more_content: | # this will include new lines to allow paragraphs
    - CCNA 
    - MCSA
    
-    GNU/Linux (Installation, Configuration, Troubleshooting)
+   GNU/Linux (Installation, Configuration, Troubleshooting)
    - Junior: <mark>Git</mark>, <mark>Docker</mark>, <mark>Bash Script</mark>, <mark>OpenVPN</mark>, <mark>TOR +Bridges</mark>, <mark>OpenSatck</mark>, <mark>SQL/MariaDB</mark>, <mark>Zabbix</mark>, <mark>VoIP</mark>, <mark>Virtualization</mark> **(Qemu_KVM - VMWare)**.
    - Middle:  <mark>archlinux</mark>, <mark>Fedora</mark>, <mark>CentOS</mark>, <mark>Ubuntu</mark>, <mark>Debian</mark>.
     
