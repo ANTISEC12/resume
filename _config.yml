@@ -46,7 +46,11 @@ more_content: | # this will include new lines to allow paragraphs
    
    GNU/Linux (Installation, Configuration, Troubleshooting)
    - Junior: <mark>Git</mark>, <mark>Docker</mark>, <mark>Bash Script</mark>, <mark>OpenVPN</mark>, <mark>TOR +Bridges</mark>, <mark>OpenStack</mark>, <mark>MySQL/MariaDB</mark>, <mark>Zabbix</mark>, <mark>netdata</mark>, <mark>VoIP</mark>, <mark>Virtualization</mark> **(Qemu_KVM - VMWare)**.
+<<<<<<< HEAD
    - Middle: 
+=======
+   - Middle:    - Middle: 
+>>>>>>> 818ab78382709f0dcea49081ff21f8a44e0eb728
       - archlinux
   	 <mark>Fedora</mark>, <mark>CentOS</mark>, <mark>Ubuntu</mark>, <mark>Debian</mark>.
     
@@ -54,8 +58,11 @@ more_content: | # this will include new lines to allow paragraphs
    - Third item:
      - Indented item
      - Indented item
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 818ab78382709f0dcea49081ff21f8a44e0eb728
 # Footer
 footer_show_references: false
 
