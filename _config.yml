@@ -50,14 +50,13 @@ more_content: | # this will include new lines to allow paragraphs
   	 <mark>archlinux</mark>, <mark>Fedora</mark>, <mark>CentOS</mark>, <mark>Ubuntu</mark>, <mark>Debian</mark>.
     
     Ms-Windows (Installation, Configuration, Troubleshooting)
-   - Junior: <mark>DHCP</mark>, <mark>DNS</mark>, <mark>Active-Directory</mark>.
    
-  - sqlcl:
-      username: dbuser
-      password: My123Password
-      connect-string: "myserver.oracle.com:1521:db1234"
-      sql-file: "sqlcl/simpleselect.sql"
-      source: "SQLFILE"
+    - sqlcl:
+        username: dbuser
+        password: My123Password
+        connect-string: "myserver.oracle.com:1521:db1234"
+        sql-file: "sqlcl/simpleselect.sql"
+        source: "SQLFILE"
    
 # Footer
 footer_show_references: false
