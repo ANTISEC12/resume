@@ -47,17 +47,15 @@ more_content: | # this will include new lines to allow paragraphs
    GNU/Linux (Installation, Configuration, Troubleshooting)
    - Junior: <mark>Git</mark>, <mark>Docker</mark>, <mark>Bash Script</mark>, <mark>OpenVPN</mark>, <mark>TOR +Bridges</mark>, <mark>OpenStack</mark>, <mark>MySQL/MariaDB</mark>, <mark>Zabbix</mark>, <mark>netdata</mark>, <mark>VoIP</mark>, <mark>Virtualization</mark> **(Qemu_KVM - VMWare)**.
    - Middle: 
-  	 <mark>archlinux</mark>, <mark>Fedora</mark>, <mark>CentOS</mark>, <mark>Ubuntu</mark>, <mark>Debian</mark>.
+      - archlinux
+  	 <mark>Fedora</mark>, <mark>CentOS</mark>, <mark>Ubuntu</mark>, <mark>Debian</mark>.
     
     Ms-Windows (Installation, Configuration, Troubleshooting)
-   
-    - sqlcl:
-        username: dbuser
-        password: My123Password
-        connect-string: "myserver.oracle.com:1521:db1234"
-        sql-file: "sqlcl/simpleselect.sql"
-        source: "SQLFILE"
-   
+   - Third item:
+     - Indented item
+     - Indented item
+
+
 # Footer
 footer_show_references: false
 
