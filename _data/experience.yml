@@ -5,12 +5,21 @@
   quote: >
    Mashhad, Razavi Khorasan Province,  Iran
   description: | # this will include new lines to allow paragraphs
-    After completing the high school internship at Partvanak and obtaining a Diploma, I continued to study IT technical support at the 2 international shipping companies as a IT help-desk, and then, after some months, I worked as a junior network system administator. **2016 April 19; I left work in April, because I had to pass the exam.**
+    After completing the high school and obtaining a Diploma, I continued to study IT technical support at the 2 international shipping companies as a IT help-desk, and then, after some months, I worked as a junior network system administator. **2016 April 19; I left work in April, because I had to pass the exam.**
     
 - company: IranServer
   link: iranserver.com/
-  job_title: Infrastructure and Security
-  dates: June 25, 2019 – Now
+  job_title: R&D - R&D Expert
+  dates: June 25, 2019 –  August 15, 2019
+  quote: >
+   Mashhad, Razavi Khorasan Province,  Iran
+  description: | # this will include new lines to allow paragraphs
+    
+
+- company: IranServer
+  link: iranserver.com/
+  job_title: Infrastructure - Installation Expert
+  dates:  August 28, 2019 – Now
   quote: >
    Mashhad, Razavi Khorasan Province,  Iran
   description: | # this will include new lines to allow paragraphs

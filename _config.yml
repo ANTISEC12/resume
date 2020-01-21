@@ -24,7 +24,7 @@ instagram_username: antisec12
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Soroush and I'm 21 years old.  My linux 's world has been started with Fedora, but I am currently user of the <mark>archlinux</mark> and I am working on it for more personalization.
+  Hi, my name is Soroush and I'm 22 years old.  My linux 's world has been started with Fedora, but I am currently user of the <mark>archlinux</mark> and I am working on it for more personalization.
     - Preparing a new gnu/linux distribution that is based on archlinux.
     
 
@@ -44,20 +44,12 @@ more_content: | # this will include new lines to allow paragraphs
    - CCNA 
    - MCSA
    
-   GNU/Linux (Installation, Configuration, Troubleshooting)
-   - Junior: <mark>Git</mark>, <mark>Docker</mark>, <mark>Bash Script</mark>, <mark>OpenVPN</mark>, <mark>TOR +Bridges</mark>, <mark>OpenStack</mark>, <mark>MySQL/MariaDB</mark>, <mark>Zabbix</mark>, <mark>netdata</mark>, <mark>VoIP</mark>, <mark>Virtualization</mark> **(Qemu_KVM - VMWare)**.
+  GNU/Linux Tools (Installation, Configuration, Troubleshooting) <br/>
+   The things that I currently have the most experience working with are:
+    <mark>Git</mark>, <mark>Docker</mark>, <mark>Bash Script</mark>, <mark>OpenVPN</mark>, <mark>TOR +Bridges</mark>, <mark>OpenStack</mark>, <mark>MySQL/MariaDB</mark>
+   - Monitoring: <mark>Zabbix</mark>, <mark>netdata</mark>, <mark>Nagios</mark>, 
+   - Virtualization: <mark> VMWare: ESXI, VCenter</mark>  <mark>KVM: SolusVM, Proxmox, Qemu/KVM</mark> 
 
-   - Middle: 
-      - archlinux
-      - Fedora
-      - CentOS 
-      - Debian
-      - Ubuntu
-    
-    Ms-Windows (Installation, Configuration, Troubleshooting)
-   - Third item:
-     - Indented item
-     - Indented item
 
 # Footer
 footer_show_references: false
