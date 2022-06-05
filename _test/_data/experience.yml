@@ -34,3 +34,13 @@
   quote: >
    Mashhad, Razavi Khorasan Province,  Iran
   description: | # this will include new lines to allow paragraphs
+  then, I worked as a junior DevOps, and that led me into the world of devops.
+  
+- company: localhost
+  link: 127.0.0.1:*
+  job_title: Devops Engineer
+  dates:  1 August, 2022 – Now
+  quote: >
+   Shandiz, Razavi Khorasan Province,  Iran
+  description: | # this will include new lines to allow paragraphs
+  DevOps Intro...

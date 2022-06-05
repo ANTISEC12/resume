@@ -66,7 +66,7 @@ more_content: | # this will include new lines to allow paragraphs
    
   GNU/Linux Tools (Installation, Configuration, Troubleshooting) <br/>
    The things that I currently have the most experience working with are:
-    <mark>Git</mark>, <mark>Docker</mark>, <mark>BashScript</mark>, <mark>OpenVPN</mark>, <mark>TOR +Bridges</mark>, , <mark>MySQL/MariaDB</mark>
+    <mark>Git</mark>, <mark>Docker</mark>, <mark>BashScript</mark>, <mark>OpenVPN</mark>, <mark>TOR +Bridges</mark>, <mark>MySQL/MariaDB</mark>
    - Monitoring: <mark>Zabbix</mark>, <mark>netdata</mark>, <mark>Nagios</mark>, 
    - Virtualization: <mark> VMWare: ESXI, VCenter</mark>  <mark>KVM: SolusVM, Proxmox, Qemu/KVM</mark> 
 
