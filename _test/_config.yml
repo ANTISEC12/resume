@@ -1,0 +1,109 @@
+# Site
+repository: antisec12/resume
+# Site
+
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Content configuration version
+
+
+# Personal info
+name: Soroush Afzalian
+title:  🐧 Junior DevOps.
+email: soroush.afzalian@gmail.com
+website: soroushsharing.gitlab.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+phone: +98 935 304 3487
+twitter_username: antisec12
+github_username:  antisec12
+telegram_username: ant1s3c
+# facebook_username: antisec12
+# flickr_username: antisec12
+instagram_username: antisec12
+#linkedin_username: antisec12
+# pinterest_username: antisec12
+# youtube_username: antisec12
+# googleplus_username: +antisec12
+
+# Additional icon links
+
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, My name is Soroush and I came here in 1997.
+    - 1376-Solar Hijri calendar.
+    
+
+# Projects Section
+#projects_title: Projects
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: 
+more_content: | # this will include new lines to allow paragraphs
+  Network and Computer System Administrator:
+   - Network Plus
+   - MCSA
+   
+  GNU/Linux Tools (Installation, Configuration, Troubleshooting) <br/>
+   The things that I currently have the most experience working with are:
+    <mark>Git</mark>, <mark>Docker</mark>, <mark>BashScript</mark>, <mark>OpenVPN</mark>, <mark>TOR +Bridges</mark>, , <mark>MySQL/MariaDB</mark>
+   - Monitoring: <mark>Zabbix</mark>, <mark>netdata</mark>, <mark>Nagios</mark>, 
+   - Virtualization: <mark> VMWare: ESXI, VCenter</mark>  <mark>KVM: SolusVM, Proxmox, Qemu/KVM</mark> 
+
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+data_dir: _test/_data
+
+include:
+ - _test
+
+exclude:
+  - vendor
+  
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
+
+
