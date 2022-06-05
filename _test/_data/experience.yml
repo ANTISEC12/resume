@@ -1,14 +1,14 @@
-- company: Part Vanak Travel Agency
+- company: PartVanak Travel Agency
   link: partvanak.com
   job_title: Help-Desk & Junior Network System Administrator 
   dates: May 2015 – Apr 2016
   quote: >
    Mashhad, Razavi Khorasan Province,  Iran
   description: | # this will include new lines to allow paragraphs
-    After completing the high school and obtaining a Diploma, I continued to study IT technical support at the 2 international shipping companies as a IT help-desk, and then, after some months, I worked as a junior network/system administator.
+    IT technical support at the 2 international shipping companies as a IT help-desk, and then, after some months, I had worked as a junior network/system administator.
     
 - company: IranServer
-  link: iranserver.com/
+  link: iranserver.com
   job_title: R&D - R&D Expert
   dates: June 25, 2019 –  August 15, 2019
   quote: >
@@ -29,7 +29,7 @@
   
 - company: IranServer
   link: iranserver.com/
-  job_title: Internal Opertioan - Internal Opertioan
+  job_title: COC - Internal Opertioan
   dates:  september 29, 2021 – July 31, 2022
   quote: >
    Mashhad, Razavi Khorasan Province,  Iran
