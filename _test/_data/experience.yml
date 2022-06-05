@@ -5,7 +5,7 @@
   quote: >
    Mashhad, Razavi Khorasan Province,  Iran
   description: | # this will include new lines to allow paragraphs
-    After completing the high school and obtaining a Diploma, I continued to study IT technical support at the 2 international shipping companies as a IT help-desk, and then, after some months, I worked as a junior network system administator.
+    After completing the high school and obtaining a Diploma, I continued to study IT technical support at the 2 international shipping companies as a IT help-desk, and then, after some months, I worked as a junior network/system administator.
     
 - company: IranServer
   link: iranserver.com/
@@ -27,11 +27,10 @@
     Control Panels: Cpanel, Directadmin, aapanel, Plesk, SolidCP
     Hypervisor: ESXI/VCenter, SolussVM/kvm, Proxmox. 
   
-  - company: IranServer
+- company: IranServer
   link: iranserver.com/
-  job_title: Internal Opertioan - Cloud Internal Opertioan
+  job_title: Internal Opertioan - Internal Opertioan
   dates:  september 29, 2021 – July 31, 2022
   quote: >
    Mashhad, Razavi Khorasan Province,  Iran
   description: | # this will include new lines to allow paragraphs
-    
