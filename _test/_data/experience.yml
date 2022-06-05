@@ -25,7 +25,7 @@
   description: | # this will include new lines to allow paragraphs
     Install and configure OS skills, such as : Linux, Windows
     Control Panels: Cpanel, Directadmin, aapanel, Plesk, SolidCP
-    Hypervisor: ESXI/VCenter, SolussVM/kvm, Proxmox. 
+    Hypervisor: ESXI/VCenter, SolusVM/kvm, Proxmox. 
   
 - company: IranServer
   link: iranserver.com/
@@ -34,13 +34,13 @@
   quote: >
    Mashhad, Razavi Khorasan Province,  Iran
   description: | # this will include new lines to allow paragraphs
-   then, I worked as a junior DevOps, and that led me into the world of devops.
+   then, I worked as a junior DevOps.
 
-- company: localhost
-  link: 127.0.0.1:*
+- company: FreeLancer
+  link: localhost
   job_title: Devops Engineer
   dates:  1 August, 2022 – Now
   quote: >
    Shandiz, Razavi Khorasan Province,  Iran
   description: | # this will include new lines to allow paragraphs
-    DevOps Intro...
+    I work on self-study projects to become a DevOps engineer ...
