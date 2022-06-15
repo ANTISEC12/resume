@@ -29,12 +29,12 @@
   
 - company: IranServer
   link: iranserver.com/
-  job_title: COC - Internal Opertioan
+  job_title: COC - Internal Operations
   dates:  september 29, 2021 – July 31, 2022
   quote: >
    Mashhad, Razavi Khorasan Province,  Iran
   description: | # this will include new lines to allow paragraphs
-   then, I worked as a junior DevOps.
+   then, I worked as a junior DevOps. 
 
 - company: FreeLancer
   link: localhost
@@ -43,4 +43,5 @@
   quote: >
    Shandiz, Razavi Khorasan Province,  Iran
   description: | # this will include new lines to allow paragraphs
-    I work on self-study projects to become a DevOps engineer ...
+    I currently spend a lot of time learning the Python programming language. My goal is to learn and recognize cloud platforms and architectures such as the following; 
+    Infrastructure-as-Code(IaC), Containers-as-a-Service(CaaS), Software-as-a-Service(SaaS), Platform-as-a-Service(PaaS), Infrastructure-as-a-Service (IaaS).
