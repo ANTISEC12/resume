@@ -5,7 +5,7 @@
   quote: >
    Mashhad, Razavi Khorasan Province,  Iran
   description: | # this will include new lines to allow paragraphs
-    IT technical support at the 2 international shipping companies as a IT help-desk, and then, after some months, I had worked as a junior network/system administator.
+    IT technical support at the 2 international shipping companies as a IT help-desk, and then, after some months, I had worked as a junior network-system administator.
     
 - company: IranServer
   link: iranserver.com
@@ -14,7 +14,7 @@
   quote: >
    Mashhad, Razavi Khorasan Province,  Iran
   description: | # this will include new lines to allow paragraphs
-    Research about basic concepts of AWS (lambda) and OpenStack implementation. 
+    Research about basic concepts of AWS <mark>lambda</mark> and OpenStack implementation. 
 
 - company: IranServer
   link: iranserver.com/
@@ -38,10 +38,10 @@
 
 - company: FreeLancer
   link: localhost
-  job_title: Devops Engineer
+  job_title: Junior DevOps
   dates:  1 August, 2022 – Now
   quote: >
    Shandiz, Razavi Khorasan Province,  Iran
   description: | # this will include new lines to allow paragraphs
     I currently spend a lot of time learning the Python programming language. My goal is to learn and recognize cloud platforms and architectures such as the following; 
-    Infrastructure-as-Code(IaC), Containers-as-a-Service(CaaS), Software-as-a-Service(SaaS), Platform-as-a-Service(PaaS), Infrastructure-as-a-Service(IaaS).
+    Infrastructure-as-Code<mark>IaC</mark>, Containers-as-a-Service<mark>CaaS</mark>, Software-as-a-Service<mark>SaaS</mark>, Platform-as-a-Service<mark>PaaS</mark>, Infrastructure-as-a-Service<mark>IaaS</mark>.
